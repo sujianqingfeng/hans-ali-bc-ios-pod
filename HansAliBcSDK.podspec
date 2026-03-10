@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'HansAliBcSDK'
-  s.version      = '0.1.1'
+  s.version      = '0.1.2'
   s.summary      = 'Vendored iOS frameworks for hans-ali-bc (uni-app x).'
   s.description  = <<-DESC
 This pod contains vendored .framework binaries required by the hans-ali-bc uni-app x UTS plugin.
