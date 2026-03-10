@@ -21,9 +21,8 @@ Example (replace the git URL and tag):
   "dependencies-pods": [
     {
       "name": "HansAliBcSDK",
-      "repo": { "git": "https://github.com/<org>/hans-ali-bc-ios-pod.git", "tag": "0.1.0" }
+      "repo": { "git": "https://github.com/sujianqingfeng/hans-ali-bc-ios-pod.git", "tag": "0.1.0" }
     }
   ]
 }
 ```
-

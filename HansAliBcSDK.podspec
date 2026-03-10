@@ -9,12 +9,12 @@ It is intended to reduce HBuilderX cloud packaging upload size by fetching iOS S
 CocoaPods instead of bundling them inside uni_modules.
   DESC
 
-  s.homepage     = 'https://github.com/<org>/hans-ali-bc-ios-pod'
+  s.homepage     = 'https://github.com/sujianqingfeng/hans-ali-bc-ios-pod'
   s.license      = { :type => 'Proprietary', :text => 'See the upstream SDK license terms.' }
-  s.author       = { 'Hans' => 'REPLACE_ME' }
+  s.author       = 'sujianqingfeng'
 
   s.platform     = :ios, '12.0'
-  s.source       = { :git => 'https://github.com/<org>/hans-ali-bc-ios-pod.git', :tag => s.version.to_s }
+  s.source       = { :git => 'https://github.com/sujianqingfeng/hans-ali-bc-ios-pod.git', :tag => s.version.to_s }
 
   s.vendored_frameworks = 'Frameworks/*.framework'
 
@@ -37,4 +37,3 @@ CocoaPods instead of bundling them inside uni_modules.
   ]
   s.libraries = ['c++', 'resolv', 'z', 'sqlite3']
 end
-
