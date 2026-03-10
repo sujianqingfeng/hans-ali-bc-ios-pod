@@ -1,0 +1,5 @@
+framework module AlibcLinkPartnerSDK {
+  umbrella header "AlibcLinkPartnerSDK.h"
+  export *
+  module * { export * }
+}

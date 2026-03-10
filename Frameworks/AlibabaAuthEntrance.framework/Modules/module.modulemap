@@ -1,0 +1,5 @@
+framework module AlibabaAuthEntrance {
+  umbrella header "ALBBSDK.h"
+  export *
+  module * { export * }
+}

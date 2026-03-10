@@ -1,0 +1,5 @@
+framework module TriverDebugTool {
+  umbrella "Headers"
+  export *
+  module * { export * }
+}

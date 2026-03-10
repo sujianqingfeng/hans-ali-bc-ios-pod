@@ -1,0 +1,5 @@
+framework module AriverResource {
+  umbrella "Headers"
+  export *
+  module * { export * }
+}
