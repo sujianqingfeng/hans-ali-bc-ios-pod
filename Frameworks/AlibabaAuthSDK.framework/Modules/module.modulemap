@@ -1,6 +1,0 @@
-framework module AlibabaAuthSDK {
-  umbrella "Headers"
-  export *
-  module * { export * }
-}
-

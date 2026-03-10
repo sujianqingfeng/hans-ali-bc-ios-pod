@@ -1,5 +1,0 @@
-framework module AriverKernel {
-  umbrella "Headers"
-  export *
-  module * { export * }
-}

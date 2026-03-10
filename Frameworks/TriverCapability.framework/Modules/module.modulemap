@@ -1,5 +1,0 @@
-framework module TriverCapability {
-  umbrella "Headers"
-  export *
-  module * { export * }
-}

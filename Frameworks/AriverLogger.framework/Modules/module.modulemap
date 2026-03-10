@@ -1,5 +1,0 @@
-framework module AriverLogger {
-  umbrella "Headers"
-  export *
-  module * { export * }
-}

@@ -1,5 +1,0 @@
-framework module TriverLocalDebug {
-  umbrella "Headers"
-  export *
-  module * { export * }
-}

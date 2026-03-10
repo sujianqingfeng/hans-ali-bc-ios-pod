@@ -1,5 +1,0 @@
-framework module AriverApi {
-  umbrella "Headers"
-  export *
-  module * { export * }
-}

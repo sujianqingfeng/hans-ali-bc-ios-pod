@@ -1,5 +1,0 @@
-framework module WindmillTRiverKit {
-  umbrella "Headers"
-  export *
-  module * { export * }
-}

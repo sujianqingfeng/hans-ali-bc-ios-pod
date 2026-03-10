@@ -1,5 +1,0 @@
-framework module TriverAppContainer {
-  umbrella "Headers"
-  export *
-  module * { export * }
-}

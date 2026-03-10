@@ -1,5 +1,0 @@
-framework module AriverAuth {
-  umbrella "Headers"
-  export *
-  module * { export * }
-}

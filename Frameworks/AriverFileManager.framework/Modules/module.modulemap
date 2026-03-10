@@ -1,5 +1,0 @@
-framework module AriverFileManager {
-  umbrella "Headers"
-  export *
-  module * { export * }
-}

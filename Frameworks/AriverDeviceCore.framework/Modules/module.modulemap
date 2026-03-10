@@ -1,5 +1,0 @@
-framework module AriverDeviceCore {
-  umbrella "Headers"
-  export *
-  module * { export * }
-}

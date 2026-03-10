@@ -1,5 +1,0 @@
-framework module AlibcTradeCommonSDK {
-  umbrella "Headers"
-  export *
-  module * { export * }
-}

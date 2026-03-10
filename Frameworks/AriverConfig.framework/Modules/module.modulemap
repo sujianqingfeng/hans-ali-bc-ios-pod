@@ -1,5 +1,0 @@
-framework module AriverConfig {
-  umbrella "Headers"
-  export *
-  module * { export * }
-}
